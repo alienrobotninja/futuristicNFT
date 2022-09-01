@@ -1,4 +1,5 @@
-# Futuristic NFT PLATFORM 
+###  \
+**Futuristic NFT PLATFORM **
 
 
 ### 31.08.2022
@@ -8,7 +9,18 @@ AlienRobotNinja
 Jos, Nigeria.
 
 
-## **Challenge**
+
+- [ ] You are to go to [Introduction to Near - NEAR Development 101 | Dacade](https://dacade.org/communities/near/courses/near-101/learning-modules/5b28ba61-bb26-4035-a749-9c28edfe6c55). 
+- [ ] Follow the course.
+- [ ] Create a react app according to the course
+- [ ] Create a github repo as you will be guided to.
+- [ ] Push your changes to that repo and also to this repo. 
+- [ ] Your challenge, should you choose to accept it, is provided below together with the UI for it. 
+- [ ] We are going to test you based on how well you use the course to implement the UI provided to you.
+- [ ] You may also choose to finish your challenge on Dacade with a different project, which is okay as we are not assessing you based on that but on using the course to build the platform.
+
+
+## Challenge
 
 
 
@@ -17,12 +29,12 @@ Jos, Nigeria.
 3. Publish your Dapp to GitHub and submit the link to your repository. Please include your contract code in the repository.
 
 
-## **Using the Frontend UI**
+## Using the Frontend UI
 
 https://www.figma.com/file/KWffAn8oayxAI1T9PTsS7P/Futuristic-NFT?node-id=0%3A1
 
 
-## **Goals**
+## Goals
 
 
 
