@@ -1,7 +1,5 @@
 **ALIENROBOTNINJA Frontend Developer Assessment**
 
-
-###  \
 **Futuristic NFT PLATFORM **
 
 
