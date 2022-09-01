@@ -1,6 +1,6 @@
 **ALIENROBOTNINJA Frontend Developer Assessment**
 
-**Futuristic NFT PLATFORM **
+### Futuristic NFT PLATFORM 
 
 
 ### 31.08.2022
