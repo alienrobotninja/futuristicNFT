@@ -3,11 +3,11 @@
 ### Futuristic NFT PLATFORM 
 
 
-### 31.08.2022
 
-AlienRobotNinja
 
-Jos, Nigeria.
+Alien Robot Ninja
+
+
 
 
 
